@@ -1,2 +1,2 @@
 # Day1Ansible
-A journey to 6 digits
+Welcome to the world of automation.
